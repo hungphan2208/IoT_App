@@ -14,6 +14,6 @@ Tải các thư viện cần thiết.
 
 ### `expo start`
 Chạy App ở development mode. Sau khi chạy xong sẽ có kết quả như hình dưới
-<img src="https://imgur.com/a/BFhtnaJ">
+<img src="https://drive.google.com/file/d/10ZAdGWcBAOPAIoYtbL3eBzfRdibEybiG/view?usp=sharing">
 Mở Expo đã tải trên điện thoại, scan mã QR hoặc nhập link.
 
